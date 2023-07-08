@@ -1,6 +1,8 @@
 # <h1 align="center">Hi 👋, I'm Sejal Namdev</h1> 
 <h3 align="center">A passionate frontend developer from India</h3>
 
+[![Profile Visitors](https://komarev.com/ghpvc/?username=sejalnamdev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sejalnamdev)
+
  🌱 I’m currently learning C++ DSA, HTML, CSS, JAVASCRIPT<br><br>💬 Ask me about C, C++, HTML, CSS<br><br>📫 How to reach me namdevsejal31@gmail.com<br>
 
 
