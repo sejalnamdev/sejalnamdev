@@ -3,7 +3,7 @@
 
 [![Profile Visitors](https://komarev.com/ghpvc/?username=sejalnamdev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sejalnamdev)
 
- 🌱 I’m currently learning C++ DSA, HTML, CSS, JAVASCRIPT<br><br>💬 Ask me about C, C++, Python, HTML, CSS<br><br>📫 How to reach me namdevsejal31@gmail.com<br>
+ 🌱 I’m currently learning C++ & Python DSA, HTML, CSS, JAVASCRIPT<br><br>💬 Ask me about C, C++, Python, HTML, CSS<br><br>📫 How to reach me namdevsejal31@gmail.com<br>
 
 
 ## 🌐 Socials:
